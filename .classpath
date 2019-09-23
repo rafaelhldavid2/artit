@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Pichau/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/ArtIt/lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pichau/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/ArtIt/lib/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pichau/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/ArtIt/lib/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pichau/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/ArtIt/lib/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pichau/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/ArtIt/lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pichau/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/ArtIt/lib/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pichau/Documents/workspace-spring-tool-suite-4-4.1.2.RELEASE/ArtIt/lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
